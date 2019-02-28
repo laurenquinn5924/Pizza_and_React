@@ -1,0 +1,11 @@
+button {
+	background-color: #333333;
+	color: #ffc734;
+	font-size: 20px;
+	padding: 5px 30px;
+	display: inline-block;
+}
+
+.navbar-item {
+	display: inline-block;
+}
